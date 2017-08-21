@@ -1,0 +1,11 @@
+var num1 = 423;
+var num2 = 345;
+var num3 = -2345;
+var num4 = 98.798;
+var hi = "hello world!";
+var bye = "goodbye world!";
+var eclipse = "goodnight world!";
+var yes = true; 
+var no = false; 
+var arr = [1,2,3];
+var und = arr[5];
